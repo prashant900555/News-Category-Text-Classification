@@ -1,0 +1,14 @@
+scikit-learn      
+numpy
+seaborn      
+pandas      
+matplotlib
+jupyter
+ipykernel
+plotly
+requests
+bs4
+texthero==1.0.5
+contractions
+nltk
+wordcloud
